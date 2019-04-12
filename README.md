@@ -1,3 +1,4 @@
 # hello-world
 First repository
-My name is tatsuya, the monster.
+My name is tatsuya,
+a man with responsible, aggresive heart
